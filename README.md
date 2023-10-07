@@ -18,7 +18,6 @@ In most cases, you need to use it only once.
 ### kubeconfig-create.sh
 Merge the separate YAML Kubernetes configs from the active
 directory created in the .kube folder to one config file.
-
 WARNING: The script overwrites your current config file
 without any further interaction!
 
